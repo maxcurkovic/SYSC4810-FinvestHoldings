@@ -1,0 +1,9 @@
+Role,Account Balance,Investments Portfolio,Financial Advisor Contact Details,Investment Analyst Contact Details,Money Market Instruments,Consumer Instruments,Derivatives Trading,Interest Instruments,Client Account,Access Between 9AM-5PM,Validate Modifications
+RegularClient,R,R,R,,,,,,,,
+Teller,R,R,,,,,,,,RW,
+FinancialAdvisor,R,RW,R,,,R,,,,,
+ComplianceOfficer,R,R,,,,,,,,,RW
+PremiumClient,R,RW,R,R,,,,,,,
+InvestmentAnalyst,R,RW,,R,R,R,R,R,,,
+FinancialPlanner,R,RW,,,R,R,,,,,
+TechnicalSupport,,,,,,,,,RW,,
